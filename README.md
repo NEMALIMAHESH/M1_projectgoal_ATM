@@ -4,4 +4,4 @@ Repository to do Internship project
 * Idea
 * Requirements
 * Design
-* Test Plan
+* Test Plan and output
