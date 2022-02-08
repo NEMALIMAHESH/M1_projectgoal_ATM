@@ -1,1 +1,1 @@
-Showing how it works
+Showing how it works and output
