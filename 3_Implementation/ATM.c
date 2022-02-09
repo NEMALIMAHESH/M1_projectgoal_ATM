@@ -9,8 +9,9 @@
  * 
  */
 
-#include<stdio.h>
-#include<conio.h>
+#include"stdio.h"
+#include"conio.h"
+
 void atm(int p)
 {
 		int i,j,k,l,m,n,o;
