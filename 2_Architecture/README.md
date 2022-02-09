@@ -1,2 +1,3 @@
 * Design
-  State diagram
+  * Structural diagram
+  * Behavioural diagram
