@@ -11,3 +11,4 @@ Repository to do Internship project
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/NEMALIMAHESH/M1_projectgoal_ATM/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/NEMALIMAHESH/M1_projectgoal_ATM/actions/workflows/cppcheck.yml)
 [![C/C++ CI](https://github.com/NEMALIMAHESH/M1_projectgoal_ATM/actions/workflows/c_build.yml/badge.svg)](https://github.com/NEMALIMAHESH/M1_projectgoal_ATM/actions/workflows/c_build.yml)
+[![Unit Testing - Unity](https://github.com/NEMALIMAHESH/M1_projectgoal_ATM/actions/workflows/Unity.yml/badge.svg)](https://github.com/NEMALIMAHESH/M1_projectgoal_ATM/actions/workflows/Unity.yml)
