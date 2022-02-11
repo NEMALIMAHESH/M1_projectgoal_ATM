@@ -5,3 +5,5 @@ Repository to do Internship project
 * Requirements
 * Design
 * Test Plan and output
+
+![Codiga](https://api.codiga.io/project/31089/score/svg)
