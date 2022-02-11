@@ -119,7 +119,7 @@ int main()
 	atm(i);
 	}
 	else
-	{
+	{ 
 		printf("THANKYOU FOR VISITING");
 			}
 	
