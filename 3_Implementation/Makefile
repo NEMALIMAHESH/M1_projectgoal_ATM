@@ -1,8 +1,8 @@
 #TargetName:Dependencies
 #<TAB>commands
 
-Build:ATM.c
-	gcc ATM.c -o atm.out
+Build:
+	gcc src/ATM.c -o atm.out
 
 Run: atm.out
 	./atm.out

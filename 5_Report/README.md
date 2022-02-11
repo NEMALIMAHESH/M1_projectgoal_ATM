@@ -1,5 +1,5 @@
 * INTRODUCTION:
-    ATm in c is based on a concept of managing an account personally.From this project user can check total balance,Mini Statement,Money Withdrawal,Paying Bills,Deposit Money and generate new pin easily and the user can save time without going to banks.
+    ATM in c is based on a concept of managing an account personally.From this project user can check total balance,Mini Statement,Money Withdrawal,Paying Bills,Deposit Money and generate new pin easily and the user can save time without going to banks.
 * Process of Creating this project:
    * Created a new repository account in github
    * clone this repository account to Visual studio code using some commands.

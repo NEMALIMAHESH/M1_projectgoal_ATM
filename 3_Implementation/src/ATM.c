@@ -12,6 +12,7 @@
 #include"stdio.h"
 #include"conio.h"
 
+
 int atm(int p)
 {
 		int i,j,k,l,m,n,o;
